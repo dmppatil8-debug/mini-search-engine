@@ -1,0 +1,2 @@
+NumPy is a Python library for numerical computing.
+NumPy provides arrays and mathematical operations for scientific computing.

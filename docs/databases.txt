@@ -1,0 +1,2 @@
+Databases store and organize information.
+Database systems allow applications to create, read, update, and delete data.

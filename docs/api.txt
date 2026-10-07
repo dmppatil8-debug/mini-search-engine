@@ -1,0 +1,2 @@
+An API allows different software systems to communicate.
+APIs commonly exchange data using formats such as JSON.

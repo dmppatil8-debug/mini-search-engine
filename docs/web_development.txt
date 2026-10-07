@@ -1,0 +1,2 @@
+Web development involves building websites and web applications.
+HTML, CSS, JavaScript, and backend technologies are commonly used.

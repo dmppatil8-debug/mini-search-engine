@@ -1,0 +1,1066 @@
+{
+    "documents": {
+        "api.txt": 14,
+        "artificial_intelligence.txt": 19,
+        "basketball.txt": 11,
+        "cloud_computing.txt": 15,
+        "cricket.txt": 23,
+        "cybersecurity.txt": 13,
+        "databases.txt": 13,
+        "data_science.txt": 15,
+        "deep_learning.txt": 17,
+        "football.txt": 15,
+        "git.txt": 13,
+        "github.txt": 14,
+        "machine_learning.txt": 18,
+        "natural_language_processing.txt": 15,
+        "neural_networks.txt": 14,
+        "numpy.txt": 12,
+        "pandas.txt": 15,
+        "programming.txt": 12,
+        "python.txt": 16,
+        "rag.txt": 15,
+        "rest_api.txt": 17,
+        "sql.txt": 13,
+        "tennis.txt": 14,
+        "transformers.txt": 16,
+        "web_development.txt": 14
+    },
+    "index": {
+        "api": {
+            "api.txt": 1
+        },
+        "allows": {
+            "api.txt": 1,
+            "artificial_intelligence.txt": 1,
+            "machine_learning.txt": 1,
+            "natural_language_processing.txt": 1,
+            "sql.txt": 1
+        },
+        "different": {
+            "api.txt": 1
+        },
+        "software": {
+            "api.txt": 1
+        },
+        "systems": {
+            "api.txt": 1,
+            "databases.txt": 1
+        },
+        "communicate": {
+            "api.txt": 1
+        },
+        "apis": {
+            "api.txt": 1,
+            "rest_api.txt": 1
+        },
+        "commonly": {
+            "api.txt": 1,
+            "rest_api.txt": 1,
+            "web_development.txt": 1
+        },
+        "exchange": {
+            "api.txt": 1
+        },
+        "data": {
+            "api.txt": 1,
+            "cybersecurity.txt": 1,
+            "databases.txt": 1,
+            "data_science.txt": 3,
+            "machine_learning.txt": 2,
+            "pandas.txt": 2,
+            "python.txt": 1
+        },
+        "using": {
+            "api.txt": 1
+        },
+        "formats": {
+            "api.txt": 1
+        },
+        "such": {
+            "api.txt": 1,
+            "rest_api.txt": 1
+        },
+        "json": {
+            "api.txt": 1,
+            "rest_api.txt": 1
+        },
+        "artificial": {
+            "artificial_intelligence.txt": 1,
+            "python.txt": 1
+        },
+        "intelligence": {
+            "artificial_intelligence.txt": 2,
+            "python.txt": 1
+        },
+        "machines": {
+            "artificial_intelligence.txt": 1,
+            "cloud_computing.txt": 1
+        },
+        "perform": {
+            "artificial_intelligence.txt": 1
+        },
+        "tasks": {
+            "artificial_intelligence.txt": 1,
+            "deep_learning.txt": 1,
+            "machine_learning.txt": 1
+        },
+        "normally": {
+            "artificial_intelligence.txt": 1
+        },
+        "require": {
+            "artificial_intelligence.txt": 1
+        },
+        "human": {
+            "artificial_intelligence.txt": 1,
+            "natural_language_processing.txt": 1
+        },
+        "ai": {
+            "artificial_intelligence.txt": 1
+        },
+        "includes": {
+            "artificial_intelligence.txt": 1,
+            "cybersecurity.txt": 1
+        },
+        "machine": {
+            "artificial_intelligence.txt": 1,
+            "machine_learning.txt": 2,
+            "neural_networks.txt": 1,
+            "python.txt": 1
+        },
+        "learning": {
+            "artificial_intelligence.txt": 2,
+            "deep_learning.txt": 2,
+            "machine_learning.txt": 3,
+            "neural_networks.txt": 1,
+            "python.txt": 1
+        },
+        "deep": {
+            "artificial_intelligence.txt": 1,
+            "deep_learning.txt": 2
+        },
+        "natural": {
+            "artificial_intelligence.txt": 1,
+            "natural_language_processing.txt": 1,
+            "transformers.txt": 1
+        },
+        "language": {
+            "artificial_intelligence.txt": 1,
+            "deep_learning.txt": 1,
+            "natural_language_processing.txt": 2,
+            "python.txt": 1,
+            "rag.txt": 1,
+            "transformers.txt": 1
+        },
+        "processing": {
+            "artificial_intelligence.txt": 1,
+            "natural_language_processing.txt": 1,
+            "transformers.txt": 1
+        },
+        "basketball": {
+            "basketball.txt": 1
+        },
+        "fast": {
+            "basketball.txt": 1,
+            "cricket.txt": 1
+        },
+        "team": {
+            "basketball.txt": 1,
+            "football.txt": 1
+        },
+        "sport": {
+            "basketball.txt": 1,
+            "cricket.txt": 1,
+            "football.txt": 1
+        },
+        "players": {
+            "basketball.txt": 1,
+            "football.txt": 1,
+            "tennis.txt": 2
+        },
+        "score": {
+            "basketball.txt": 1,
+            "cricket.txt": 1,
+            "football.txt": 1
+        },
+        "points": {
+            "basketball.txt": 1
+        },
+        "throwing": {
+            "basketball.txt": 1
+        },
+        "ball": {
+            "basketball.txt": 1,
+            "football.txt": 1,
+            "tennis.txt": 1
+        },
+        "through": {
+            "basketball.txt": 1
+        },
+        "basket": {
+            "basketball.txt": 1
+        },
+        "cloud": {
+            "cloud_computing.txt": 2
+        },
+        "computing": {
+            "cloud_computing.txt": 2,
+            "numpy.txt": 2
+        },
+        "provides": {
+            "cloud_computing.txt": 1,
+            "numpy.txt": 1
+        },
+        "resources": {
+            "cloud_computing.txt": 1
+        },
+        "over": {
+            "cloud_computing.txt": 1,
+            "tennis.txt": 1
+        },
+        "internet": {
+            "cloud_computing.txt": 1
+        },
+        "services": {
+            "cloud_computing.txt": 1,
+            "rest_api.txt": 1
+        },
+        "include": {
+            "cloud_computing.txt": 1,
+            "programming.txt": 1
+        },
+        "storage": {
+            "cloud_computing.txt": 1
+        },
+        "databases": {
+            "cloud_computing.txt": 1,
+            "databases.txt": 1,
+            "sql.txt": 1
+        },
+        "networking": {
+            "cloud_computing.txt": 1
+        },
+        "virtual": {
+            "cloud_computing.txt": 1
+        },
+        "cricket": {
+            "cricket.txt": 1
+        },
+        "popular": {
+            "cricket.txt": 1,
+            "python.txt": 1
+        },
+        "played": {
+            "cricket.txt": 1,
+            "football.txt": 1,
+            "tennis.txt": 1
+        },
+        "between": {
+            "cricket.txt": 1,
+            "tennis.txt": 1,
+            "transformers.txt": 1
+        },
+        "two": {
+            "cricket.txt": 1,
+            "tennis.txt": 2
+        },
+        "teams": {
+            "cricket.txt": 1,
+            "tennis.txt": 1
+        },
+        "bowlers": {
+            "cricket.txt": 2
+        },
+        "important": {
+            "cricket.txt": 1
+        },
+        "because": {
+            "cricket.txt": 1
+        },
+        "generate": {
+            "cricket.txt": 1
+        },
+        "high": {
+            "cricket.txt": 1
+        },
+        "speed": {
+            "cricket.txt": 1
+        },
+        "try": {
+            "cricket.txt": 2,
+            "football.txt": 1
+        },
+        "take": {
+            "cricket.txt": 1
+        },
+        "wickets": {
+            "cricket.txt": 1
+        },
+        "while": {
+            "cricket.txt": 1
+        },
+        "batsmen": {
+            "cricket.txt": 1
+        },
+        "runs": {
+            "cricket.txt": 1
+        },
+        "cybersecurity": {
+            "cybersecurity.txt": 1
+        },
+        "protects": {
+            "cybersecurity.txt": 1
+        },
+        "computers": {
+            "cybersecurity.txt": 1,
+            "machine_learning.txt": 1,
+            "natural_language_processing.txt": 1,
+            "programming.txt": 1
+        },
+        "networks": {
+            "cybersecurity.txt": 1,
+            "deep_learning.txt": 1,
+            "neural_networks.txt": 1
+        },
+        "applications": {
+            "cybersecurity.txt": 1,
+            "databases.txt": 1,
+            "web_development.txt": 1
+        },
+        "security": {
+            "cybersecurity.txt": 1
+        },
+        "authentication": {
+            "cybersecurity.txt": 1
+        },
+        "encryption": {
+            "cybersecurity.txt": 1
+        },
+        "monitoring": {
+            "cybersecurity.txt": 1
+        },
+        "access": {
+            "cybersecurity.txt": 1
+        },
+        "control": {
+            "cybersecurity.txt": 1,
+            "git.txt": 1
+        },
+        "store": {
+            "databases.txt": 1,
+            "pandas.txt": 1
+        },
+        "organize": {
+            "databases.txt": 1
+        },
+        "information": {
+            "databases.txt": 1,
+            "rag.txt": 1
+        },
+        "database": {
+            "databases.txt": 1
+        },
+        "allow": {
+            "databases.txt": 1,
+            "pandas.txt": 1
+        },
+        "create": {
+            "databases.txt": 1
+        },
+        "read": {
+            "databases.txt": 1
+        },
+        "update": {
+            "databases.txt": 1,
+            "sql.txt": 1
+        },
+        "delete": {
+            "databases.txt": 1,
+            "rest_api.txt": 1,
+            "sql.txt": 1
+        },
+        "science": {
+            "data_science.txt": 1,
+            "python.txt": 1
+        },
+        "combines": {
+            "data_science.txt": 1,
+            "rag.txt": 1
+        },
+        "statistics": {
+            "data_science.txt": 1
+        },
+        "programming": {
+            "data_science.txt": 1,
+            "programming.txt": 2,
+            "python.txt": 1
+        },
+        "mathematics": {
+            "data_science.txt": 1
+        },
+        "domain": {
+            "data_science.txt": 1
+        },
+        "knowledge": {
+            "data_science.txt": 1
+        },
+        "scientists": {
+            "data_science.txt": 1
+        },
+        "analyze": {
+            "data_science.txt": 1,
+            "pandas.txt": 1
+        },
+        "discover": {
+            "data_science.txt": 1
+        },
+        "useful": {
+            "data_science.txt": 1
+        },
+        "patterns": {
+            "data_science.txt": 1,
+            "machine_learning.txt": 1
+        },
+        "uses": {
+            "deep_learning.txt": 1,
+            "machine_learning.txt": 1
+        },
+        "neural": {
+            "deep_learning.txt": 1,
+            "neural_networks.txt": 1,
+            "transformers.txt": 1
+        },
+        "multiple": {
+            "deep_learning.txt": 1
+        },
+        "layers": {
+            "deep_learning.txt": 1
+        },
+        "widely": {
+            "deep_learning.txt": 1,
+            "neural_networks.txt": 1
+        },
+        "used": {
+            "deep_learning.txt": 1,
+            "natural_language_processing.txt": 1,
+            "neural_networks.txt": 1,
+            "pandas.txt": 1,
+            "python.txt": 1,
+            "sql.txt": 1,
+            "transformers.txt": 1,
+            "web_development.txt": 1
+        },
+        "computer": {
+            "deep_learning.txt": 1
+        },
+        "vision": {
+            "deep_learning.txt": 1
+        },
+        "speech": {
+            "deep_learning.txt": 1
+        },
+        "recognition": {
+            "deep_learning.txt": 1,
+            "neural_networks.txt": 1
+        },
+        "football": {
+            "football.txt": 1
+        },
+        "around": {
+            "football.txt": 1
+        },
+        "world": {
+            "football.txt": 1
+        },
+        "goals": {
+            "football.txt": 1
+        },
+        "moving": {
+            "football.txt": 1
+        },
+        "toward": {
+            "football.txt": 1
+        },
+        "opponent": {
+            "football.txt": 1
+        },
+        "goal": {
+            "football.txt": 1
+        },
+        "git": {
+            "git.txt": 2,
+            "github.txt": 1
+        },
+        "version": {
+            "git.txt": 1
+        },
+        "system": {
+            "git.txt": 1
+        },
+        "developers": {
+            "git.txt": 1,
+            "github.txt": 1,
+            "pandas.txt": 1,
+            "sql.txt": 1
+        },
+        "use": {
+            "git.txt": 1,
+            "github.txt": 1,
+            "rest_api.txt": 1,
+            "tennis.txt": 1,
+            "transformers.txt": 1
+        },
+        "track": {
+            "git.txt": 1
+        },
+        "changes": {
+            "git.txt": 1
+        },
+        "source": {
+            "git.txt": 1
+        },
+        "code": {
+            "git.txt": 1
+        },
+        "collaborate": {
+            "git.txt": 1
+        },
+        "projects": {
+            "git.txt": 1
+        },
+        "github": {
+            "github.txt": 2
+        },
+        "platform": {
+            "github.txt": 1
+        },
+        "hosting": {
+            "github.txt": 1
+        },
+        "repositories": {
+            "github.txt": 1
+        },
+        "collaboration": {
+            "github.txt": 1
+        },
+        "pull": {
+            "github.txt": 1
+        },
+        "requests": {
+            "github.txt": 1
+        },
+        "issues": {
+            "github.txt": 1
+        },
+        "project": {
+            "github.txt": 1
+        },
+        "management": {
+            "github.txt": 1
+        },
+        "learn": {
+            "machine_learning.txt": 1
+        },
+        "supervised": {
+            "machine_learning.txt": 1
+        },
+        "labeled": {
+            "machine_learning.txt": 1
+        },
+        "classification": {
+            "machine_learning.txt": 1,
+            "neural_networks.txt": 1
+        },
+        "regression": {
+            "machine_learning.txt": 1
+        },
+        "common": {
+            "machine_learning.txt": 1
+        },
+        "work": {
+            "natural_language_processing.txt": 1,
+            "sql.txt": 1
+        },
+        "nlp": {
+            "natural_language_processing.txt": 1
+        },
+        "translation": {
+            "natural_language_processing.txt": 1
+        },
+        "sentiment": {
+            "natural_language_processing.txt": 1
+        },
+        "analysis": {
+            "natural_language_processing.txt": 1,
+            "pandas.txt": 1
+        },
+        "search": {
+            "natural_language_processing.txt": 1
+        },
+        "chatbots": {
+            "natural_language_processing.txt": 1
+        },
+        "models": {
+            "neural_networks.txt": 1,
+            "rag.txt": 1
+        },
+        "inspired": {
+            "neural_networks.txt": 1
+        },
+        "biological": {
+            "neural_networks.txt": 1
+        },
+        "neurons": {
+            "neural_networks.txt": 1
+        },
+        "prediction": {
+            "neural_networks.txt": 1
+        },
+        "pattern": {
+            "neural_networks.txt": 1
+        },
+        "numpy": {
+            "numpy.txt": 2
+        },
+        "python": {
+            "numpy.txt": 1,
+            "pandas.txt": 1,
+            "programming.txt": 1,
+            "python.txt": 2
+        },
+        "library": {
+            "numpy.txt": 1,
+            "pandas.txt": 1
+        },
+        "numerical": {
+            "numpy.txt": 1
+        },
+        "arrays": {
+            "numpy.txt": 1
+        },
+        "mathematical": {
+            "numpy.txt": 1
+        },
+        "operations": {
+            "numpy.txt": 1
+        },
+        "scientific": {
+            "numpy.txt": 1
+        },
+        "pandas": {
+            "pandas.txt": 1
+        },
+        "dataframes": {
+            "pandas.txt": 1
+        },
+        "clean": {
+            "pandas.txt": 1
+        },
+        "transform": {
+            "pandas.txt": 1
+        },
+        "structured": {
+            "pandas.txt": 1
+        },
+        "process": {
+            "programming.txt": 1
+        },
+        "creating": {
+            "programming.txt": 1
+        },
+        "instructions": {
+            "programming.txt": 1
+        },
+        "languages": {
+            "programming.txt": 1
+        },
+        "java": {
+            "programming.txt": 1
+        },
+        "c": {
+            "programming.txt": 1
+        },
+        "javascript": {
+            "programming.txt": 1,
+            "web_development.txt": 1
+        },
+        "automation": {
+            "python.txt": 1
+        },
+        "web": {
+            "python.txt": 1,
+            "web_development.txt": 2
+        },
+        "development": {
+            "python.txt": 1,
+            "web_development.txt": 1
+        },
+        "scripting": {
+            "python.txt": 1
+        },
+        "retrieval": {
+            "rag.txt": 2
+        },
+        "augmented": {
+            "rag.txt": 1
+        },
+        "generation": {
+            "rag.txt": 1
+        },
+        "document": {
+            "rag.txt": 1
+        },
+        "rag": {
+            "rag.txt": 1
+        },
+        "retrieves": {
+            "rag.txt": 1
+        },
+        "relevant": {
+            "rag.txt": 1
+        },
+        "before": {
+            "rag.txt": 1
+        },
+        "generating": {
+            "rag.txt": 1
+        },
+        "answer": {
+            "rag.txt": 1
+        },
+        "rest": {
+            "rest_api.txt": 2
+        },
+        "http": {
+            "rest_api.txt": 1
+        },
+        "methods": {
+            "rest_api.txt": 1
+        },
+        "get": {
+            "rest_api.txt": 1
+        },
+        "post": {
+            "rest_api.txt": 1
+        },
+        "put": {
+            "rest_api.txt": 1
+        },
+        "patch": {
+            "rest_api.txt": 1
+        },
+        "return": {
+            "rest_api.txt": 1
+        },
+        "responses": {
+            "rest_api.txt": 1
+        },
+        "sql": {
+            "sql.txt": 2
+        },
+        "relational": {
+            "sql.txt": 1
+        },
+        "query": {
+            "sql.txt": 1
+        },
+        "insert": {
+            "sql.txt": 1
+        },
+        "records": {
+            "sql.txt": 1
+        },
+        "tennis": {
+            "tennis.txt": 1
+        },
+        "racket": {
+            "tennis.txt": 1
+        },
+        "hit": {
+            "tennis.txt": 1
+        },
+        "net": {
+            "tennis.txt": 1
+        },
+        "transformers": {
+            "transformers.txt": 1
+        },
+        "network": {
+            "transformers.txt": 1
+        },
+        "architectures": {
+            "transformers.txt": 1
+        },
+        "extensively": {
+            "transformers.txt": 1
+        },
+        "attention": {
+            "transformers.txt": 1
+        },
+        "mechanisms": {
+            "transformers.txt": 1
+        },
+        "understand": {
+            "transformers.txt": 1
+        },
+        "relationships": {
+            "transformers.txt": 1
+        },
+        "words": {
+            "transformers.txt": 1
+        },
+        "involves": {
+            "web_development.txt": 1
+        },
+        "building": {
+            "web_development.txt": 1
+        },
+        "websites": {
+            "web_development.txt": 1
+        },
+        "html": {
+            "web_development.txt": 1
+        },
+        "css": {
+            "web_development.txt": 1
+        },
+        "backend": {
+            "web_development.txt": 1
+        },
+        "technologies": {
+            "web_development.txt": 1
+        }
+    },
+    "idf": {
+        "api": 3.5649493574615367,
+        "allows": 2.466337068793427,
+        "different": 3.5649493574615367,
+        "software": 3.5649493574615367,
+        "systems": 3.159484249353372,
+        "communicate": 3.5649493574615367,
+        "apis": 3.159484249353372,
+        "commonly": 2.8718021769015913,
+        "exchange": 3.5649493574615367,
+        "data": 2.1786549963416464,
+        "using": 3.5649493574615367,
+        "formats": 3.5649493574615367,
+        "such": 3.159484249353372,
+        "json": 3.159484249353372,
+        "artificial": 3.159484249353372,
+        "intelligence": 3.159484249353372,
+        "machines": 3.159484249353372,
+        "perform": 3.5649493574615367,
+        "tasks": 2.8718021769015913,
+        "normally": 3.5649493574615367,
+        "require": 3.5649493574615367,
+        "human": 3.159484249353372,
+        "ai": 3.5649493574615367,
+        "includes": 3.159484249353372,
+        "machine": 2.6486586255873816,
+        "learning": 2.466337068793427,
+        "deep": 3.159484249353372,
+        "natural": 2.8718021769015913,
+        "language": 2.3121863889661687,
+        "processing": 2.8718021769015913,
+        "basketball": 3.5649493574615367,
+        "fast": 3.159484249353372,
+        "team": 3.159484249353372,
+        "sport": 2.8718021769015913,
+        "players": 2.8718021769015913,
+        "score": 2.8718021769015913,
+        "points": 3.5649493574615367,
+        "throwing": 3.5649493574615367,
+        "ball": 2.8718021769015913,
+        "through": 3.5649493574615367,
+        "basket": 3.5649493574615367,
+        "cloud": 3.5649493574615367,
+        "computing": 3.159484249353372,
+        "provides": 3.159484249353372,
+        "resources": 3.5649493574615367,
+        "over": 3.159484249353372,
+        "internet": 3.5649493574615367,
+        "services": 3.159484249353372,
+        "include": 3.159484249353372,
+        "storage": 3.5649493574615367,
+        "databases": 2.8718021769015913,
+        "networking": 3.5649493574615367,
+        "virtual": 3.5649493574615367,
+        "cricket": 3.5649493574615367,
+        "popular": 3.159484249353372,
+        "played": 2.8718021769015913,
+        "between": 2.8718021769015913,
+        "two": 3.159484249353372,
+        "teams": 3.159484249353372,
+        "bowlers": 3.5649493574615367,
+        "important": 3.5649493574615367,
+        "because": 3.5649493574615367,
+        "generate": 3.5649493574615367,
+        "high": 3.5649493574615367,
+        "speed": 3.5649493574615367,
+        "try": 3.159484249353372,
+        "take": 3.5649493574615367,
+        "wickets": 3.5649493574615367,
+        "while": 3.5649493574615367,
+        "batsmen": 3.5649493574615367,
+        "runs": 3.5649493574615367,
+        "cybersecurity": 3.5649493574615367,
+        "protects": 3.5649493574615367,
+        "computers": 2.6486586255873816,
+        "networks": 2.8718021769015913,
+        "applications": 2.8718021769015913,
+        "security": 3.5649493574615367,
+        "authentication": 3.5649493574615367,
+        "encryption": 3.5649493574615367,
+        "monitoring": 3.5649493574615367,
+        "access": 3.5649493574615367,
+        "control": 3.159484249353372,
+        "store": 3.159484249353372,
+        "organize": 3.5649493574615367,
+        "information": 3.159484249353372,
+        "database": 3.5649493574615367,
+        "allow": 3.159484249353372,
+        "create": 3.5649493574615367,
+        "read": 3.5649493574615367,
+        "update": 3.159484249353372,
+        "delete": 2.8718021769015913,
+        "science": 3.159484249353372,
+        "combines": 3.159484249353372,
+        "statistics": 3.5649493574615367,
+        "programming": 2.8718021769015913,
+        "mathematics": 3.5649493574615367,
+        "domain": 3.5649493574615367,
+        "knowledge": 3.5649493574615367,
+        "scientists": 3.5649493574615367,
+        "analyze": 3.159484249353372,
+        "discover": 3.5649493574615367,
+        "useful": 3.5649493574615367,
+        "patterns": 3.159484249353372,
+        "uses": 3.159484249353372,
+        "neural": 2.8718021769015913,
+        "multiple": 3.5649493574615367,
+        "layers": 3.5649493574615367,
+        "widely": 3.159484249353372,
+        "used": 2.0608719606852626,
+        "computer": 3.5649493574615367,
+        "vision": 3.5649493574615367,
+        "speech": 3.5649493574615367,
+        "recognition": 3.159484249353372,
+        "football": 3.5649493574615367,
+        "around": 3.5649493574615367,
+        "world": 3.5649493574615367,
+        "goals": 3.5649493574615367,
+        "moving": 3.5649493574615367,
+        "toward": 3.5649493574615367,
+        "opponent": 3.5649493574615367,
+        "goal": 3.5649493574615367,
+        "git": 3.159484249353372,
+        "version": 3.5649493574615367,
+        "system": 3.5649493574615367,
+        "developers": 2.6486586255873816,
+        "use": 2.466337068793427,
+        "track": 3.5649493574615367,
+        "changes": 3.5649493574615367,
+        "source": 3.5649493574615367,
+        "code": 3.5649493574615367,
+        "collaborate": 3.5649493574615367,
+        "projects": 3.5649493574615367,
+        "github": 3.5649493574615367,
+        "platform": 3.5649493574615367,
+        "hosting": 3.5649493574615367,
+        "repositories": 3.5649493574615367,
+        "collaboration": 3.5649493574615367,
+        "pull": 3.5649493574615367,
+        "requests": 3.5649493574615367,
+        "issues": 3.5649493574615367,
+        "project": 3.5649493574615367,
+        "management": 3.5649493574615367,
+        "learn": 3.5649493574615367,
+        "supervised": 3.5649493574615367,
+        "labeled": 3.5649493574615367,
+        "classification": 3.159484249353372,
+        "regression": 3.5649493574615367,
+        "common": 3.5649493574615367,
+        "work": 3.159484249353372,
+        "nlp": 3.5649493574615367,
+        "translation": 3.5649493574615367,
+        "sentiment": 3.5649493574615367,
+        "analysis": 3.159484249353372,
+        "search": 3.5649493574615367,
+        "chatbots": 3.5649493574615367,
+        "models": 3.159484249353372,
+        "inspired": 3.5649493574615367,
+        "biological": 3.5649493574615367,
+        "neurons": 3.5649493574615367,
+        "prediction": 3.5649493574615367,
+        "pattern": 3.5649493574615367,
+        "numpy": 3.5649493574615367,
+        "python": 2.6486586255873816,
+        "library": 3.159484249353372,
+        "numerical": 3.5649493574615367,
+        "arrays": 3.5649493574615367,
+        "mathematical": 3.5649493574615367,
+        "operations": 3.5649493574615367,
+        "scientific": 3.5649493574615367,
+        "pandas": 3.5649493574615367,
+        "dataframes": 3.5649493574615367,
+        "clean": 3.5649493574615367,
+        "transform": 3.5649493574615367,
+        "structured": 3.5649493574615367,
+        "process": 3.5649493574615367,
+        "creating": 3.5649493574615367,
+        "instructions": 3.5649493574615367,
+        "languages": 3.5649493574615367,
+        "java": 3.5649493574615367,
+        "c": 3.5649493574615367,
+        "javascript": 3.159484249353372,
+        "automation": 3.5649493574615367,
+        "web": 3.159484249353372,
+        "development": 3.159484249353372,
+        "scripting": 3.5649493574615367,
+        "retrieval": 3.5649493574615367,
+        "augmented": 3.5649493574615367,
+        "generation": 3.5649493574615367,
+        "document": 3.5649493574615367,
+        "rag": 3.5649493574615367,
+        "retrieves": 3.5649493574615367,
+        "relevant": 3.5649493574615367,
+        "before": 3.5649493574615367,
+        "generating": 3.5649493574615367,
+        "answer": 3.5649493574615367,
+        "rest": 3.5649493574615367,
+        "http": 3.5649493574615367,
+        "methods": 3.5649493574615367,
+        "get": 3.5649493574615367,
+        "post": 3.5649493574615367,
+        "put": 3.5649493574615367,
+        "patch": 3.5649493574615367,
+        "return": 3.5649493574615367,
+        "responses": 3.5649493574615367,
+        "sql": 3.5649493574615367,
+        "relational": 3.5649493574615367,
+        "query": 3.5649493574615367,
+        "insert": 3.5649493574615367,
+        "records": 3.5649493574615367,
+        "tennis": 3.5649493574615367,
+        "racket": 3.5649493574615367,
+        "hit": 3.5649493574615367,
+        "net": 3.5649493574615367,
+        "transformers": 3.5649493574615367,
+        "network": 3.5649493574615367,
+        "architectures": 3.5649493574615367,
+        "extensively": 3.5649493574615367,
+        "attention": 3.5649493574615367,
+        "mechanisms": 3.5649493574615367,
+        "understand": 3.5649493574615367,
+        "relationships": 3.5649493574615367,
+        "words": 3.5649493574615367,
+        "involves": 3.5649493574615367,
+        "building": 3.5649493574615367,
+        "websites": 3.5649493574615367,
+        "html": 3.5649493574615367,
+        "css": 3.5649493574615367,
+        "backend": 3.5649493574615367,
+        "technologies": 3.5649493574615367
+    },
+    "total_documents": 25
+}

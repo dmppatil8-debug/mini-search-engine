@@ -1,0 +1,2 @@
+Neural networks are machine learning models inspired by biological neurons.
+They are widely used for classification, prediction, and pattern recognition.

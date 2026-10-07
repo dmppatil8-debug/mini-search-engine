@@ -1,0 +1,2 @@
+Data science combines statistics, programming, mathematics, and domain knowledge.
+Data scientists analyze data to discover useful patterns.

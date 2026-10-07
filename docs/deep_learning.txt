@@ -1,0 +1,2 @@
+Deep learning uses neural networks with multiple layers.
+Deep learning is widely used for computer vision, speech recognition, and language tasks.

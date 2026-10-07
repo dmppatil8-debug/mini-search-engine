@@ -1,0 +1,2 @@
+REST APIs use HTTP methods such as GET, POST, PUT, PATCH, and DELETE.
+REST services commonly return JSON responses.

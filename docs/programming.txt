@@ -1,0 +1,2 @@
+Programming is the process of creating instructions for computers.
+Programming languages include Python, Java, C++, and JavaScript.

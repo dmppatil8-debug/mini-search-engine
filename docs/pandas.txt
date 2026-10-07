@@ -1,0 +1,2 @@
+Pandas is a Python library used for data analysis.
+DataFrames allow developers to store, clean, transform, and analyze structured data.

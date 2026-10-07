@@ -1,0 +1,2 @@
+Cybersecurity protects computers, networks, applications, and data.
+Security includes authentication, encryption, monitoring, and access control.

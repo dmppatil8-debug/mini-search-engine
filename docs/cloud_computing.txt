@@ -1,0 +1,2 @@
+Cloud computing provides computing resources over the internet.
+Cloud services include storage, databases, networking, and virtual machines.

@@ -1,0 +1,2 @@
+Git is a version control system.
+Developers use Git to track changes in source code and collaborate on projects.

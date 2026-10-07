@@ -1,0 +1,2 @@
+Natural language processing allows computers to work with human language.
+NLP is used for translation, sentiment analysis, search, and chatbots.

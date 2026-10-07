@@ -1,0 +1,2 @@
+Retrieval augmented generation combines document retrieval with language models.
+RAG retrieves relevant information before generating an answer.

@@ -1,0 +1,2 @@
+GitHub is a platform for hosting Git repositories.
+Developers use GitHub for collaboration, pull requests, issues, and project management.
